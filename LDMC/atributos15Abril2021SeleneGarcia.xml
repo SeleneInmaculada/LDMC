@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<agenda>
+    <contacto nombre="Selene Garcia" ciudad="Toledo" email="prueba@email.com">
+        <telefono n="123456789"/>
+    </contacto>
+</agenda>

@@ -1,0 +1,28 @@
+body{
+    height: 100%;
+    width: 50%;
+}
+#izq{
+   height: 91%;
+   width: 50%;
+}
+
+ footer{
+     height: 9%;
+ }
+ #izqin{
+     float: right;
+     padding-top: 25%;
+     color: white;
+ }
+ i{
+     color: white;
+ }
+ #der{
+    height: 91%;
+    width: 50%;
+    background-color: white;
+ }
+ #derin{
+     
+ }
